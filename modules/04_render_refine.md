@@ -20,10 +20,3 @@ Show results clearly and conversationally:
 - **Next tweaks** – one-liner invite to adjust or relax the plan.
 
 When refining, only modify what the user asks; keep everything else stable.
-
----
-
-## Quality Targets (Internal)
-
-Balanced, realistic, affordable, specific itineraries with small indoor/outdoor alternates.  
-Avoid overloading users with too many options or technical terms.
